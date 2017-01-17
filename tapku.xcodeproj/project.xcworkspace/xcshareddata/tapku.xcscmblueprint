@@ -7,14 +7,14 @@
     "EE5017F42780957232AFF14DD75D9A51833942BE" : 0,
     "771CDDC8828BA5C85B70BAEAFD5C3B58BF9E0AE2" : 0
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "422A1A24-BF3B-41EA-AA02-E37C392352B8",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F91018C-F646-4DD6-892F-661B1A7E8A09",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "EE5017F42780957232AFF14DD75D9A51833942BE" : "tapkulibrary\/",
     "771CDDC8828BA5C85B70BAEAFD5C3B58BF9E0AE2" : "tapkulibrary\/Vendor\/curry\/"
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "Examples",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tapku",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Examples\/Examples.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tapku.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:devinross\/curry.git",
